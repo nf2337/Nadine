@@ -16,7 +16,11 @@ To present and turn in your final projects for Conflict Urbanism: Puerto Rico No
 
 Write **words in bold** like this.  
 
+**nadine tests writing words in bold**
+
 Italics are *similar* and are formatted like this.  
+
+*nadine tests writing words in italics*
 
 To make a paragraph break you need to add two spaces at the end of your line before going to the next line.  
 
