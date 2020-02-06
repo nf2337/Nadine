@@ -11,7 +11,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://github-usernam
 title: Nadine's Test Page
 author: Nadine
 externallink: columbia.edu #can include an external url here
-description:  This is just a test of adding the description # this means to ignore newlines until "baseurl:"
+description:  >- # this means to ignore newlines until "baseurl:"
   You can add a description of your course or project here. It should be about this long or shorter.
 
 
