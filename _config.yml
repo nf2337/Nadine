@@ -6,13 +6,13 @@
 # in the templates via {{ site.myvariable }}
 
 baseurl: "/Nadine" # the subpath of your site, replace with the name of the github repository where you will host your site
-url: "" # the base hostname & protocol for your site, e.g. http://github-username.io
+url: "https://nf2337.github.io/" # the base hostname & protocol for your site, e.g. http://github-username.io
 
 title: Nadine's Test Page
 author: Nadine
-externallink: columbia.edu #can include an external url here
+externallink: nf2337.columbia.edu #can include an external url here
 description:  >- # this means to ignore newlines until "baseurl:"
-  You can add a description of your course or project here. It should be about this long or shorter.
+  This is a test description of my website. 
 
 
 # Build settings - no need to change these
