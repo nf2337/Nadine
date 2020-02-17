@@ -5,14 +5,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}
 
-baseurl: "/Nadine" # the subpath of your site, replace with the name of the github repository where you will host your site
+baseurl: "/Subaltern-Urbanism" # the subpath of your site, replace with the name of the github repository where you will host your site
 url: "https://nf2337.github.io/" # the base hostname & protocol for your site, e.g. http://github-username.io
 
-title: Nadine's Test Page
-author: Nadine
-externallink: nf2337.columbia.edu #can include an external url here
+title: Subaltern Urbanism 
+author: 
+externallink: #can include an external url here
 description:  >- # this means to ignore newlines until "baseurl:"
-  This is a test description of my website. 
+  Student projects from the Spring 2020 Subaltern Urbanism seminar offered by Anupama Rao and Ana Paulina Lee.
 
 
 # Build settings - no need to change these
