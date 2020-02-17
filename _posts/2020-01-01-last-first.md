@@ -1,9 +1,9 @@
 ---
 layout: post
 date:   2020-01-01
-image: "/Nadine/images/csr_thumbnail.png"
-title:  "Nadine's Test Project"
-author: "Nadine Fattaleh"
+image: "/Subaltern-Urbanism/images/csr_thumbnail.png"
+title:  "Subaltern Urbanism Test Project"
+author: "Test"
 ---
 This is a document that is written in markdown. What is markdown? It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
 
@@ -50,7 +50,7 @@ nadine tries a test of a hyperlink to [Google 123](http://google.com/).
 
 To embed images first ensure that the file is at least 740px wide. Then place the image file in a folder named for your group in the images folder. Then link to that image using the format here, but replace the file path with the name of your group's folder and appropriate image file name:  
 
-![Nadine's test image](/Nadine/images/NF_Image.png)
+![Nadine's test image](/Subaltern-Urbanism/images/NF_Image.png)
 
 If you want to include html files (i.e. an interactive map) host these via your personal github page, and then you can embed them in your document with a iframe. The format looks like this:  
 
